@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RpcInterface", "RpcInterface.vcxproj", "{F6BDB3FA-3D4B-583C-A67D-1780A8113590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Debug|ARM.Build.0 = Debug|ARM
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Debug|x64.ActiveCfg = Debug|x64
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Debug|x64.Build.0 = Debug|x64
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Debug|x86.Build.0 = Debug|Win32
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Release|ARM.ActiveCfg = Release|ARM
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Release|ARM.Build.0 = Release|ARM
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Release|x64.ActiveCfg = Release|x64
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Release|x64.Build.0 = Release|x64
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Release|x86.ActiveCfg = Release|Win32
+		{F6BDB3FA-3D4B-583C-A67D-1780A8113590}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17C9576-0B5A-4B5F-A3D1-96FCBC29B317}
+	EndGlobalSection
+EndGlobal
